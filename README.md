@@ -4,4 +4,4 @@
 color: Red;
 }
 </style>
-<h1 class="text"Just a new Portfolio Page</h1>
+<h1 class="text">Just a new Portfolio Page</h1>
