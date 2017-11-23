@@ -1,6 +1,6 @@
 @charset "UTF-8";
 @import url(font-awesome.min.css);
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300");
+@import url("https://fonts.googleapis.com/css?family=Helvetica:300");
 
 	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
 		margin: 0;
@@ -120,11 +120,11 @@
 	body, input, select, textarea {
 		
 		background: #A770EF;  /* fallback for old browsers */
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
-		font-size: 14pt;
+		font-family: "Helvetica", sans-serif;
+		font-size: 16pt;
 		font-weight: 300;
 		line-height: 2;
-		letter-spacing: 0.0em;
+		letter-spacing: 0.2em;
 		text-transform: uppercase,lowercase;
 		background: -webkit-linear-gradient(to right, #FDB99B, #CF8BF3, #A770EF);  /* Chrome 10-25, Safari 5.1-6 */
 		background: linear-gradient(to right, #FDB99B, #CF8BF3, #A770EF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
